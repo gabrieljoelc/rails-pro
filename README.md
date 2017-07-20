@@ -1,5 +1,5 @@
 # Rails Pro
-Rails is known for being a for going from zero to running application in minutes. Howerver, this isn't useful for getting the same low-friction experience for production-ready applications. Many times you end up having to add lots of boilerplate configuration and organization just to a real MVP app in production. This especially applicable when designing a microservice infrastrcture.
+Rails is known for being able to go from zero to a running application in minutes. Howerver, it does not give you the same low-friction experience for shipping a production-ready application. Many times you end up having to add lots of boilerplate configuration and organization just to get a real-world MVP app into production. This is especially applicable when designing a microservice infrastrcture.
 
 Here are some concepts that this library includes (in a very opionated way):
 - Continuous Delivery / Continuous Integration
