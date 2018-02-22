@@ -8,3 +8,4 @@ Here are some concepts that this library includes (in a very opionated way):
 - View models / decorators (i.e. Draper)
 - Single-sign on authentication and authorization (i.e. JWT)
 - Admin dashboard (i.e. ActiveAdmin)
+- Email set up for prod (i.e. pluggable smtp) and development (i.e. letter opener)
