@@ -54,4 +54,4 @@ A monolithic application is like a dictionary or encyclopedia--you will never re
 
 A microservice application is like a short novel--you should be able to read the whole thing in about a day and pretty much get the story. Dynamic languages like Ruby are easy to read and reason about if the codebase is clean and focused whereas many statically-typed langauages are needlessly verbose for microservices. *You should use dynamically-typed lanagues for microservices.*
 
-The challenge with the later is the friction required in spinning up new services as needed. This library attempts to lower that friction.
+The challenge with the latter is the friction required in spinning up new services as needed. This library attempts to lower that friction.
