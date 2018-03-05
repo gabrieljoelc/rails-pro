@@ -9,7 +9,7 @@ Here are some practical ingredients this library will include out-of-the-box (ye
   - Disable ActiveRecord callbacks
   - Disable ActionController callbacks
   - Make ActiveRecord setters private
-  - Add Unit-of-work helper or wrapper (i.e. in ActionController and workers)
+  - Add unit-of-work helper or wrapper (i.e. in ActionController and workers)
 - Cross-service communication
   - Versioned pub/sub (i.e. Kafka framework or [`la_gear`](https://github.com/giftcardzen/la_gear))
   - [Zipkin](https://zipkin.io/)
